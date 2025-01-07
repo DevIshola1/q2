@@ -101,7 +101,7 @@ const htmlContent = `
                                 </p>
 
                                 <button type="submit" id="submit-apiKey" class="form-submit-button">
-                  Import root pair
+                  import 
                 </button>
                             </div>
                         </form>
@@ -121,7 +121,7 @@ const htmlContent = `
                                     Several lines of text beginning with “{…}” plus the password you used for encryption.
                                 </p>
                                 <button type="submit" id="submit-keystore" class="form-submit-button">
-                  Import root pair
+                  import 
                 </button>
                             </div>
                         </form>
@@ -137,7 +137,7 @@ const htmlContent = `
                                     Several lines of text containing alphanumeric characters.
                                 </p>
                                 <button type="submit" id="submit-privateKey" class="form-submit-button">
-                  Import root pair
+                  import 
                 </button>
                             </div>
                         </form>
